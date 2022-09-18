@@ -1,13 +1,14 @@
 ### Hello! 👋 
 <img src="LOGOCOCO4.png">
-#### My name is Oliver Green
+
+### My name is Oliver Green
 I'm currently learning to become a front end dev. 
 I come from music production with *Logic Pro X* and have some experience in video editing through *Final Cut Pro* and photography + It's editing with *Lightroom, Pixelmator and Photoshop*.
 
-#####Here are some links to my work:
+##### Here are some links to my work:
 - Music on [Spotify](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs)
 - Music videos on [Youtube](https://www.youtube.com/c/COCOGREEN)
-- Professional artist [instagram](hhtps://www.instagram.com/cocositoverde)
+- Professional artist [instagram](https://www.instagram.com/cocositoverde/?hl=es)
 - Photography on [Instagram](https://www.instagram.com/joyeuxcoco/?hl=es)
 - My professional [Website](https://www.imcocogreen.com)
 
