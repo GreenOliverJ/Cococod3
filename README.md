@@ -1,5 +1,5 @@
 ### Hello! 👋 
-<img src="LOGOCOCO4.png">
+<img src="img/bannercococod3.jpg">
 
 ### My name is Oliver Green
 I'm currently learning to become a front end dev. 
@@ -25,7 +25,7 @@ I was born in Finland but have been raised in Málaga. My family on my father's 
 - Email <a href = greenoliverj@gmail.com>greenoliverj@gmail.com</a>
 - Linkedin [profile](www.linkedin.com/in/oliver-green-12b03784) 
 
- <img src="olisurf2.jpg">
+
 
 
 
