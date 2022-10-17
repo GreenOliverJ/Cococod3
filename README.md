@@ -23,9 +23,9 @@ I was born in Finland but have been raised in Málaga. My family on my father's 
 
 ###### You can reach me through :email:
 - Email <a href = greenoliverj@gmail.com>greenoliverj@gmail.com</a>
-- Linkedin [profile](www.linkedin.com/in/oliver-green-12b03784) 
+- Linkedin [profile](www.linkedin.com/in/oliver-green-frontdesign) 
 
-
+<img src = "img/BannerLogosProff.jpg">
 
 
 
