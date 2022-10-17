@@ -26,7 +26,7 @@ I was born in Finland but have been raised in Málaga. My family on my father's 
 - Linkedin [profile](www.linkedin.com/in/oliver-green-frontdesign) 
 
 
-
+<img src="img/BannerLogosProff.jpg">
 
 
 
