@@ -2,7 +2,7 @@
 <img src="img/bannercococod3.jpg">
 
 ### My name is Oliver Green
-I'm currently preapring myself to become a front end dev. 
+I'm currently preparing myself to become a front end dev. 
 I come from music production with *Logic Pro X* and have some experience in video editing through *Final Cut Pro* and photography + editing with *Lightroom, Pixelmator and Photoshop*.
 
 ##### Here are some links to my work:
@@ -11,6 +11,18 @@ I come from music production with *Logic Pro X* and have some experience in vide
 - Professional artist [Instagram](https://www.instagram.com/cocositoverde/?hl=es)
 - Photography on [Instagram](https://www.instagram.com/joyeuxcoco/?hl=es)
 - My professional [website](https://www.imcocogreen.com)
+
+Skills & software:
+
+HTML: :star: :star: :star: 
+CSS: :star: :star: :star: 
+JavaScript: :star: :star: 
+TypeScript: :star: 
+React:
+Sass: :star: :star: 
+Bootstrap: :star: :star: 
+Node.js: :star: 
+
 
 - - -
 
