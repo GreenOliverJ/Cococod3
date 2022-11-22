@@ -1,5 +1,5 @@
 ### Hello! 👋 
-<img src="img/bannercococod3.jpg">
+<img src="img/BannerOliverNov.jpg">
 
 ### My name is Oliver Green
 I'm currently preparing myself to become a front end dev. 
