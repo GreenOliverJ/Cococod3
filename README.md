@@ -18,7 +18,7 @@ HTML: :star: :star: :star:
 CSS: :star: :star: :star: 
 JavaScript: :star: :star: 
 TypeScript: :star: 
-React:
+React: :x:
 Sass: :star: :star: 
 Bootstrap: :star: :star: 
 Node.js: :star: 
