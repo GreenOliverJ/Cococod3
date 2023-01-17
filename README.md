@@ -10,18 +10,18 @@ I come from music production with *Logic Pro X* and have some experience in vide
 - Music videos on [Youtube](https://www.youtube.com/c/COCOGREEN)
 - Professional artist [Instagram](https://www.instagram.com/cocositoverde/?hl=es)
 - Photography portfolio [Instagram](https://www.instagram.com/joyeuxcoco/?hl=es)
-- My professional [website](https://www.imcocogreen.com)
+- My professional [portfolio](https://cococod3-a2405.web.app/)
 
 Skills & software:
 
-HTML: :star: :star: :star: :star: 
-CSS: :star: :star: :star: :star:
-JavaScript: :star: :star: :star: 
-TypeScript: :star: 
-React: :star: :star:
-Sass: :star: :star: 
-Bootstrap: :star: :star: 
-Node.js: :star: 
+HTML |  
+CSS | 
+JavaScript | 
+TypeScript | 
+React | 
+Sass | 
+Bootstrap | 
+Node.js | 
 
 
 - - -
@@ -31,7 +31,7 @@ Apart from my artistic career, I'm also a team leader. I have managed and opened
 
 ###### Some fun facts about me: :stuck_out_tongue_closed_eyes: 
 I was born in Finland but have been raised in Málaga. My family on my father's side is English and mother's Finnish. I speak the three languages.
-*My five year plan would be: me, able to work in web development, be part of a pasionate project, manage my own team and at the same time, spend my days in the water with my board* :ocean:
+*My five year plan would be: me, able to work in web development, be part of a pasionate project, manage my own team and escape every now and then to surf* :ocean:
 
 ###### You can reach me through :email:
 - Email <a href = greenoliverj@gmail.com>greenoliverj@gmail.com</a>
