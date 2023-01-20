@@ -2,7 +2,7 @@
 <img src="img/BannerOliverNov.jpg">
 
 ### My name is Oliver Green
-Junior front end dev, and creative.
+Junior JS front end dev, and creative.
 I come from music production with *Logic Pro X* and have some experience in video editing through *Final Cut Pro* and photography + editing with *Lightroom, Pixelmator and Photoshop*.
 
 ##### Here are some links to my work:
@@ -12,16 +12,11 @@ I come from music production with *Logic Pro X* and have some experience in vide
 - Photography portfolio [Instagram](https://www.instagram.com/joyeuxcoco/?hl=es)
 - My professional [portfolio](https://cococod3-a2405.web.app/)
 
-Skills & software:
+######Skills & software:
 
-HTML |  
-CSS | 
-JavaScript | 
-TypeScript | 
-React | 
-Sass | 
-Bootstrap | 
-Node.js | 
+My main used framework to today has been React, although I have some growing knowledge of Vue and Quasar.
+
+HTML 5, CSS, JavaScript, TypeScript, React, Vue, Quasar, Sass, Bootstrap, Node.js, Jest.
 
 
 - - -
@@ -31,14 +26,14 @@ Apart from my artistic career, I'm also a team leader. I have managed and opened
 
 ###### Some fun facts about me: :stuck_out_tongue_closed_eyes: 
 I was born in Finland but have been raised in Málaga. My family on my father's side is English and mother's Finnish. I speak the three languages.
-*My five year plan would be: me, able to work in web development, be part of a pasionate project, manage my own team and escape every now and then to surf* :ocean:
+*My five year plan would be: me, able to work in web development, focus on studying AI and be part of a pasionate project. I'd love to manage my own team and escape every now and then to surf* :ocean:
 
 ###### You can reach me through :email:
 - Email <a href = greenoliverj@gmail.com>greenoliverj@gmail.com</a>
 - Linkedin [profile](https://www.linkedin.com/in/oliver-green-12b03784/) 
 
 
-<img src="img/FooterNovGui.jpg">
+<img src="img/Bannerjan23.jpg">
 
 
 
